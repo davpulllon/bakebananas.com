@@ -16,7 +16,7 @@ body {
     display: flex;
     align-items: center;
     justify-content:flex-start;
-    width: 110%;
+    width: 120%;
     margin-left: 0;
     border: 1px solid black;
     background-color: rgba(2, 92, 237, 0.74);
@@ -61,7 +61,7 @@ h2{
 
 }
 .banana{
-    width: 115%;
+    width: 125%;
     border: 1px solid black;
 
 }
